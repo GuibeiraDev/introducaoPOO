@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOFOA242", "POOFOA242\POOFOA242.csproj", "{1519F465-8240-44CE-87D1-B7A29735004D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro", "ControleFinanceiro\ControleFinanceiro.csproj", "{D81A8B1D-D3BC-4FE2-835D-C1E75B150BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1519F465-8240-44CE-87D1-B7A29735004D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1519F465-8240-44CE-87D1-B7A29735004D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1519F465-8240-44CE-87D1-B7A29735004D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1519F465-8240-44CE-87D1-B7A29735004D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81A8B1D-D3BC-4FE2-835D-C1E75B150BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81A8B1D-D3BC-4FE2-835D-C1E75B150BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81A8B1D-D3BC-4FE2-835D-C1E75B150BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81A8B1D-D3BC-4FE2-835D-C1E75B150BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8788F047-3466-4CB1-88F4-34DC4B2AF22C}
+	EndGlobalSection
+EndGlobal
